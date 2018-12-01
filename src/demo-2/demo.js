@@ -1,1 +1,1 @@
-module.exports = () => 'Mocha & Chai são legais!';
+module.exports = () => "Mocha & Chai são legais!";
